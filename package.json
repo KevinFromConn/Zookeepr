@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/KevinFromConn/zookeepr/issues"
   },
-  "homepage": "https://github.com/KevinFromConn/zookeepr#readme"
+  "homepage": "https://github.com/KevinFromConn/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
